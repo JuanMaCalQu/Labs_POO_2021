@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Robot_World
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Robot_World\ here.\r\n\ \r\n\ @author\ (Daniela\ Ram\u00EDrez,\ Adriana\ Velasquez,\ Juan\ Manuel\ Calderon)\ \r\n\ @version\ (4/02/2021)\r\n
+comment1.params=
+comment1.target=Robot_World()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Robot_World.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare_scenario()
+comment2.text=Add\ objects\ in\ the\ principal\ scene
+numComments=3

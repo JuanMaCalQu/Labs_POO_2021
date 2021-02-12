@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Robot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Robot.\r\n\ \r\n\ Class\ to\ make\ character\ in\ the\ world\ and\ establish\ the\ movement\ in\ his\r\n\ \r\n\ @author\ (Daniela\ Ramirez,\ Adriana\ Velasquez,\ Juan\ M\ Calderon)\ \r\n\ @version\ (11/FEB/2021)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ robotMovement()
+comment2.text=Make\ the\ movement\ whit\ keys\ right,left,up\ and\ down
+comment3.params=
+comment3.target=void\ detectWallCollision()
+comment3.text=Establish\ the\ collision\ in\ the\ robot
+comment4.params=
+comment4.target=void\ detectBlockCollision()
+comment5.params=
+comment5.target=void\ detectHome()
+comment5.text=Make\ robot\ detect\ home
+comment6.params=
+comment6.target=void\ eatApple()
+comment6.text=Method\ robot\ eat\ a\ apple
+numComments=7
